@@ -1,0 +1,5 @@
+include 'APIGateway'
+include 'product-app'
+include 'payment-app'
+include 'EurekaServer'
+include 'configServerV2'
